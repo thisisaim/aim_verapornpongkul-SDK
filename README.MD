@@ -18,7 +18,7 @@ This project needs to use Python 3.10.5 or later to support
 
 In the terminal, run command:
 
-> pip install aim-verapornpongkul-sdk
+> pip install av-lotr-sdk
 
 ## Logging
 
@@ -51,4 +51,5 @@ This should print all modules in a form of a list.
 
 - Introduced dataclasses in `get_all` methods, need to expand it to all methods in SDK
 - Sorting, Pagination and Filtering was not implemented due to time constraints.
+
 # aim_verapornpongkul-SDK
