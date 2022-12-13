@@ -1,0 +1,12 @@
+INFO:root:Accessed https://the-one-api.dev/v2/book with status 200
+INFO:root:Accessed https://the-one-api.dev/v2/chapter with status 200
+INFO:root:Accessed https://the-one-api.dev/v2/character with status 200
+INFO:root:Accessed https://the-one-api.dev/v2/movie with status 200
+INFO:root:Accessed https://the-one-api.dev/v2/quote with status 200
+INFO:root:Accessed https://the-one-api.dev/v2/book with status 200
+INFO:root:Accessed https://the-one-api.dev/v2/chapter with status 200
+INFO:root:Accessed https://the-one-api.dev/v2/character with status 200
+INFO:root:Accessed https://the-one-api.dev/v2/movie with status 200
+INFO:root:Status 200. Successfully accessed https://the-one-api.dev/v2.
+INFO:root:Status 200. Successfully accessed https://the-one-api.dev/v2/quote page 2.
+INFO:root:Status 200. Successfully accessed https://the-one-api.dev/v2/quote page 3.
